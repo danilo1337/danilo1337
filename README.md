@@ -3,8 +3,8 @@ Seja bem vindo(a) ao meu perfil 👋
 Meu nome é Danilo Ribeiro sou formado em <b>Análise e Desenvolvimento de Sistemas</b>.
 
 <div style="display: inline_block"><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilo1337&show_icons=true&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo1337&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danilo1337&show_icons=true&theme=algolia&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danilo1337&theme=algolia&count_private=true"/>
 </div>
 
 
