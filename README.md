@@ -1,18 +1,5 @@
 <h1 align="center">Welcome to my profile 👋</h1>
 
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/danilo1337/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -60,6 +47,12 @@
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/danilo1337/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=danilo1337.danilo1337&"/>
