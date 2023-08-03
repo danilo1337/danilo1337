@@ -11,7 +11,7 @@
 
 <div align="center" style="display: inline_block"><br>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danilo1337&show_icons=true&theme=vision-friendly-dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danilo1337&theme=vision-friendly-dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo1337&theme=vision-friendly-dark&count_private=true&hide=javascript,html,css&langs_count=20"/>
 </div>
 
 <div align="center">
