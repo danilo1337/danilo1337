@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,react,kafka,docker,jenkins,linux,gitlab" />
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,react,kafka,docker,kubernetes,jenkins,linux,gitlab" />
   </a>
 </p>
 
